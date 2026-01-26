@@ -1,1 +1,3 @@
-All my work for COSC 2436
+# COSC 2436
+
+All my work for Programming 3
