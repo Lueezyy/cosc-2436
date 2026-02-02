@@ -1,3 +1,3 @@
 # COSC 2436
 
-All my work for Programming 3
+My folder of classwork for COSC 2436 Programming Fundamentals Course
